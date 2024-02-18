@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+    <title>ZIUQ v. 1.0</title>
+  </head>
+  <body class="card card-body">
+    <h1> ZIUQ! </h1>
+
+    <hr/>
+
+    <p class="lead"> <mark> La risposta è: 
+        <span id="risposta" class="h3"> 
+            <!--spinner-->
+
+        </span> 
+    </mark> </p>
+    
+    <p class="lead form-group"> Trova la domanda:
+        &#128073; 
+        <input class="form-control" type="text" id="domanda_scelta" placeholder="Inizia a scrivere..."/> 
+        <input type="button" id="scegli" value="Scegli" class="btn btn-success btn-bg" /> 
+        <input type="button" id="reset" value="Reset" class="btn btn-danger btn-sm"/> 
+    </p>
+
+    <div class="alert alert-light" role="alert">
+        <strong> Usa i suggerimenti! </strong> cerca parole chiave simili, ad es.: 
+        Deserto del Sahara dovresti cercare <em> deserto </em>,
+         Volga -> <em> fiume </em>,
+         Mark Twain -> <em> scrittore </em>, ecc.
+      </div>
+      
+ 
+    <p class="lead"> 
+        <center> <a href="open-ended.html" class="btn btn-outline-primary btn-lg"> Dammi un'altra risposta </a> </center> 
+    </p>
+
+    <p class="alert alert-info"> Sono presenti: <strong id="sizedataset"> </strong> domande/risposte. </p>
+    <p> <a href="https://capolooper.it">Salvatore Capolupo</a> - ZIUQ v 1.0 - 18 febbraio 2024 </p>
+ 
+<pre>
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠾⠛⠉⠉⠀⠀⠀⠀⠀⠀⢀⡤⠊⠉⠉⠛⠳⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢮⡀⠀⠀⠀⠀⠀⠀⠙⢷⣤⡀⠀⠀...eh?⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⡡⢤⠀⠀⠀⢰⣛⣉⣉⣓⠢⣄⠀⠀⠀⠈⢉⡁⠐⠒⠒⠂⠉⠉⠉⠛⢶⣄⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠁⣘⡒⠁⢀⠀⠀⠀⣀⣀⣀⣈⣹⣾⣕⠀⢠⡎⠁⡹⠀⣠⠄⠀⠀⠀⠀⠀⠀⠙⢷⡀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⢀⣎⡩⠃⢠⣏⡴⠞⠛⠉⠉⠀⠀⠀⠀⠹⡏⠀⠉⠉⣠⣾⠖⠋⠉⠻⣅⠀⣠⠖⢲⠌⢻⡄⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⣿⡠⠔⢿⠀⢀⡟⠉⠀⠀⠀⣀⣤⣤⡀⠀⠀⠀⣿⠀⠀⠀⡼⠉⠉⠒⢦⣀⠘⠷⡛⠒⡿⣄⠈⣷⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⣠⠏⠀⢸⠀⠀⠀⠀⢰⣿⣿⣿⡇⠀⠀⢀⡿⠀⠀⣸⠃⠀⠀⣀⣄⡙⢷⣄⡇⠘⠀⢸⡆⢹⡀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⢸⣧⠞⠁⠀⠀⢸⡆⠀⠀⠀⠸⣿⣿⡿⠃⠀⢀⣼⠃⠀⠀⣿⣆⠀⠀⣿⣿⡟⠀⠙⣧⠳⡤⠞⠀⢸⡇⠀⠀⠀⠀
+    ⠀⢀⣠⠤⠤⢄⡀⠈⣧⢈⣧⠀⠀⢸⣿⣄⣀⣀⣠⣬⣥⠴⠶⢚⣿⠋⠀⠀⠀⢻⣿⣦⣄⠈⠁⠀⠀⣰⠟⠆⠀⠀⠀⢸⣡⠴⠖⠶⣦
+    ⢠⠏⠀⠀⠀⢀⠈⠓⢿⡄⢳⠀⠀⠀⢳⣌⠻⠯⣤⣀⣀⣀⣴⣿⠏⢀⣶⢰⣦⠈⢿⣿⣿⣷⣀⣠⡼⠋⠀⢀⡀⠀⢀⣿⠥⢄⠀⠀⣿
+    ⣏⠀⠀⠀⡟⢉⡽⣦⡈⢻⣼⠄⠀⠀⠀⠉⠓⠦⠤⠬⣏⣡⠾⠃⢀⣾⣿⢸⣿⣇⠈⠻⡯⠽⢯⡽⠁⠠⣴⠝⠃⢀⣾⢋⣁⠈⢀⡾⠃
+    ⠘⠶⠲⢦⣷⠸⣤⣸⡇⠀⢻⣦⡀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠘⠛⠋⠘⠋⠋⠀⠀⠑⠚⠉⠀⠀⠀⠈⣠⣠⡾⠳⠤⣿⡀⣾⠁⠀
+    ⠀⠀⠀⠀⠸⢧⠉⠉⠀⢀⡾⠀⠉⠻⣦⠀⠀⠀⠈⢟⡽⠄⠀⠀⢀⣀⣤⣤⣤⣄⣀⠀⠀⠀⢀⡀⠀⠀⣴⡿⠛⠻⢶⣤⣿⡿⠋⠀⠀
+    ⠀⠀⠀⠀⠀⠙⠒⠒⠚⠋⠀⠀⠀⠀⠸⣧⠀⠀⠀⠀⠁⠀⣠⣾⡿⢿⠀⠀⢀⣮⣙⡻⣦⡈⠙⠿⠀⣸⠏⠀⠀⠀⠀⢀⣿⣇⡀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡆⠀⠀⠀⠀⣼⣿⣿⣇⣸⣷⣶⣾⡀⣯⣻⣿⣿⡄⠀⠀⡿⠀⠀⠀⠀⠀⢻⣾⡛⡇⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⡇⠀⠀⠀⠀⠀⠀⠛⠟⠁⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⡀⠀⢸⣿⣿⡟⢻⡿⠿⣇⣿⢸⠿⣿⣿⣿⡏⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠐⡇⠀⠸⣯⠉⠙⠒⣃⣀⣈⣭⣭⣤⣀⣩⡟⠁⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠃⠀⣀⣽⠷⠞⠛⠉⠉⠁⠀⣠⠤⠤⢤⣉⠙⠢⠤⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⠀⠹⠂⠀⣰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠛⠶⢦⣤⣀⣀⠀⠀⠀⠀⢀⣈⣛⣥⣤⠴⠾⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+</pre>
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"/>
+    <script src="/game.js"></script>
+
+    <script>
+    jQuery( "#reset" ).on( "click", function() {
+        jQuery("#domanda_scelta").val(""); //trigger per cancellare
+    });
+
+    jQuery( "#domanda_scelta" ).on( "click", function() {
+        jQuery("#domanda_scelta").val(""); //cancella
+    });
+
+    jQuery( "#scegli" ).on( "click", function() {
+        var my_domanda = jQuery("#domanda_scelta").val();
+        console.log(my_domanda);
+
+        var domanda  = Cookies.get('domanda')
+        // var risposta = Cookies.get('risposta');
+
+        console.log ("confronto (my_risposta): "+my_domanda+" con (risposta): "+domanda);
+        if ( my_domanda == domanda )
+            {
+                alert("Esatto :-) ");
+                location.reload(); 
+            }
+        else if ( my_domanda == "" )
+            alert("Aspetta, devi selezionare la domanda! ");
+        else 
+            alert("Oh no, hai sbagliato :-( ");
+    } );    
+
+    jQuery( document ).ready(function() {
+    var jqxhr = jQuery.getJSON( "dataset.json", function(data) {
+        //console.log( "success" );
+        var size     = data["domande"].length;
+        jQuery("#sizedataset").html( size );
+
+        //carica autocompletion
+        var suggestions = [];
+        jQuery.each(data, function(i, item) {
+            for ( var j=0; j<size; j++ )
+                suggestions.push( data['domande'][j]['domanda'] );
+        });
+        suggestions.sort();
+        suggestions = suggestions.filter((elemento, indice) => suggestions.indexOf(elemento) === indice);
+
+        console.log( suggestions );
+
+        jQuery( "input#domanda_scelta" ).autocomplete({
+            source: suggestions,
+            minlength: 2,
+            change: function(event, ui) {
+                if (ui.item == null) {
+                event.currentTarget.value = ''; 
+                event.currentTarget.focus();
+                }
+            }
+        });
+
+        //seleziona risposta / domanda a caso
+        var risposta = "none", domanda="none";
+        var items    = [];
+        
+        var who      = Math.floor( Math.random() * ( size ) );
+        risposta     = data['domande'][who]['risposta'];
+        domanda      = data['domande'][who]['domanda'];
+
+        console.log( domanda );
+        console.log( risposta );
+
+        var now = new Date().toUTCString();
+
+        Cookies.set('domanda', ''+domanda);
+        Cookies.set('risposta', ''+risposta);
+
+        // document.cookie = "SameSite=Lax;";
+        // document.cookie += "Expires="+now+";";
+        // document.cookie += domanda+";"+risposta+";"; 
+
+        jQuery("#risposta").text(risposta);
+    })
+    .done(function() {
+        //console.log( "second success" );
+    })
+    .fail(function() {
+        console.log( "ERRORE JSON" );
+    })
+    .always(function() {
+        //console.log( "complete" );
+    });
+});
+    </script>
+
+  </body>
+</html>

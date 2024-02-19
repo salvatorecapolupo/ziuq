@@ -1,521 +1,736 @@
 {
-    "domande": [
+  "domande": [
         {
-            "domanda": "Chi ha scritto 'Le avventure di Tom Sawyer'?",
-            "risposta": "Mark Twain"
-          },
-          {
-            "domanda": "Quale è il più grande pianeta del sistema solare?",
-            "risposta": "Giove"
-          },
-          {
-            "domanda": "Chi ha dipinto 'Il bacio'?",
-            "risposta": "Gustav Klimt"
-          },
-          {
-            "domanda": "Quale è il più grande oceano del mondo?",
-            "risposta": "Oceano Pacifico"
-          },
-          {
-            "domanda": "Chi è stato il primo uomo a camminare sulla Luna?",
-            "risposta": "Neil Armstrong"
-          },
-          {
-            "domanda": "In che anno è stata fondata la città di Roma?",
-            "risposta": "753 a.C."
-          },
-          {
-            "domanda": "Quale è il deserto più grande del mondo?",
-            "risposta": "Deserto del Sahara"
-          },
-          {
-            "domanda": "Chi ha scritto '1984'?",
-            "risposta": "George Orwell"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi ha scritto 'Cime tempestose'?",
-            "risposta": "Emily Brontë"
-          },
-          {
-            "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
-            "risposta": "Ferro"
-          },
-          {
-            "domanda": "Qual è il monte più alto del mondo?",
-            "risposta": "Monte Everest"
-          },
-          {
-            "domanda": "Chi ha scritto 'Don Chisciotte'?",
-            "risposta": "Miguel de Cervantes"
-          },
-          {
-            "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
-            "risposta": "1492"
-          },
-          {
-            "domanda": "Chi ha scritto 'Canto di Natale'?",
-            "risposta": "Charles Dickens"
-          },
-          {
-            "domanda": "Quale è il più grande lago del mondo per superficie?",
-            "risposta": "Lago Superiore"
-          },
-          {
-            "domanda": "Chi ha dipinto 'La notte stellata'?",
-            "risposta": "Vincent van Gogh"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero marino?",
-            "risposta": "Balenottera azzurra"
-          },
-          {
-            "domanda": "Chi ha scritto 'Canto di Natale'?",
-            "risposta": "Charles Dickens"
-          },
-          {
-            "domanda": "Quale è il più grande fiume d'Europa?",
-            "risposta": "Volga"
-          },
-          {
-            "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
-            "risposta": "Jane Austen"
-          },
-          {
-            "domanda": "Quale è il più grande animale terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
-            "risposta": "Salvador Dalí"
-          },
-          {
-            "domanda": "Quale è il più grande ghiacciaio del mondo?",
-            "risposta": "Ghiacciaio Lambert"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
-            "risposta": "Oscar Wilde"
-          },
-          {
-            "domanda": "Quale è il più grande parco nazionale del mondo?",
-            "risposta": "Parco nazionale Nord-Est della Groenlandia"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il Gattopardo'?",
-            "risposta": "Giuseppe Tomasi di Lampedusa"
-          },
-          {
-            "domanda": "Quale è il più grande altopiano del mondo?",
-            "risposta": "Altopiano tibetano"
-          },
-          {
-            "domanda": "Chi ha scritto 'Madame Bovary'?",
-            "risposta": "Gustave Flaubert"
-          },
-          {
-            "domanda": "Quale è il più grande canale del mondo?",
-            "risposta": "Canale di Panama"
-          },
-          {
-            "domanda": "Chi ha scritto 'Ulisse'?",
-            "risposta": "James Joyce"
-          },
-          {
-            "domanda": "Quale è il più grande arco di trionfo del mondo?",
-            "risposta": "Arco di trionfo della Corea"
-          },
-          {
-            "domanda": "Chi ha scritto 'Anna dei miracoli'?",
-            "risposta": "Carlo Cassola"
-          },
-          {
-            "domanda": "Quale è il più grande vulcano attivo del mondo?",
-            "risposta": "Mauna Loa"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il dottor Zivago'?",
-            "risposta": "Boris Pasternak"
-          },
-          {
-            "domanda": "Quale è la più grande isola del mondo?",
-            "risposta": "Groenlandia"
-          },
-          {
-            "domanda": "Chi ha composto 'Le quattro stagioni'?",
-            "risposta": "Antonio Vivaldi"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero marino?",
-            "risposta": "Balenottera azzurra"
-          },
-          {
-            "domanda": "Chi ha scritto 'Canto di Natale'?",
-            "risposta": "Charles Dickens"
-          },
-          {
-            "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
-            "risposta": "Jane Austen"
-          },
-          {
-            "domanda": "Quale è il più grande animale terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi è considerato il padre della psicoanalisi?",
-            "risposta": "Sigmund Freud"
-          },
-          {
-            "domanda": "Qual è il campo di specializzazione di Hannah Fry?",
-            "risposta": "Matematica"
-          },
-          {
-            "domanda": "Chi ha fondato la psicologia analitica?",
-            "risposta": "Carl Gustav Jung"
-          }, 
-          {
-            "domanda": "Chi è l'autore del libro 'realismo capitalista'?",
-            "risposta": "Mark Fisher"
-          },
-          {
-            "domanda": "In che città ha sede l'Internazionale FC?",
-            "risposta": "Milano"
-          },
-          {
-            "domanda": "Quanti giocatori compongono una squadra di calcio?",
-            "risposta": "11 giocatori"
-          },
-          {
-            "domanda": "Quale è la durata di una partita di calcio regolamentare?",
-            "risposta": "90 minuti"
-          },
-          {
-            "domanda": "Qual è l'organo di governo del calcio mondiale?",
-            "risposta": "FIFA"
-          },
+          "domanda": "Quanto fa 5 + 3?",
+          "risposta": "8"
+        },
         {
-            "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
-            "risposta": "Ernest Hemingway"
-          },
-          {
-            "domanda": "Quale è il più grande lago d'Europa?",
-            "risposta": "Lago di Ladoga"
-          },
-          {
-            "domanda": "Chi ha dipinto 'La Gioconda'?",
-            "risposta": "Leonardo da Vinci"
-          },
-          {
-            "domanda": "Quale è il più grande rettile del mondo?",
-            "risposta": "Coccodrillo marino"
-          },
-          {
-            "domanda": "Chi ha scritto 'La fattoria degli animali'?",
-            "risposta": "George Orwell"
-          },
-          {
-            "domanda": "Quale è il più grande deserto freddo del mondo?",
-            "risposta": "Antartide"
-          },
-          {
-            "domanda": "Chi ha composto 'La Traviata'?",
-            "risposta": "Giuseppe Verdi"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero carnivoro terrestre?",
-            "risposta": "Orso polare"
-          },
-          {
-            "domanda": "Chi ha scritto 'Donne'?",
-            "risposta": "Charles Bukowski"
-          },
-          {
-            "domanda": "Quale è il più grande giacimento di petrolio del mondo?",
-            "risposta": "Giacimento di Ghawar"
-          },
-          {
-            "domanda": "Chi ha scritto 'La colpa è delle stelle'?",
-            "risposta": "John Green"
-          },
-          {
-            "domanda": "Quale è il più grande animale terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi ha composto 'Il lago dei cigni'?",
-            "risposta": "Pëtr Il'ič Čajkovskij"
-          },
-          {
-            "domanda": "Quale è il più grande lago d'America Latina?",
-            "risposta": "Lago Titicaca"
-          },
-          {
-            "domanda": "Chi ha scritto 'La fattoria degli animali'?",
-            "risposta": "George Orwell"
-          },
-          {
-            "domanda": "Quale è il più grande parco urbano del mondo?",
-            "risposta": "Parco nazionale della Montagna della Tabella"
-          },
-          {
-            "domanda": "Chi ha scritto 'La spada della verità'?",
-            "risposta": "Terry Goodkind"
-          },
-          {
-            "domanda": "Quale è il più grande fiume d'America Latina?",
-            "risposta": "Rio delle Amazzoni"
-          },
-          {
-            "domanda": "Chi ha scritto 'Memorie di una geisha'?",
-            "risposta": "Arthur Golden"
-          },
-          {
-            "domanda": "Quale è il più grande animale marino?",
-            "risposta": "Balena azzurra"
-          },
+          "domanda": "Quanto fa 10 - 4?",
+          "risposta": "6"
+        },
         {
-            "domanda": "Chi ha scritto 'Il dottor Zivago'?",
-            "risposta": "Boris Pasternak"
-          },
-          {
-            "domanda": "Quale è la più grande isola del mondo?",
-            "risposta": "Groenlandia"
-          },
-          {
-            "domanda": "Chi ha composto 'Le quattro stagioni'?",
-            "risposta": "Antonio Vivaldi"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero marino?",
-            "risposta": "Balenottera azzurra"
-          },
-          {
-            "domanda": "Chi ha scritto 'Canto di Natale'?",
-            "risposta": "Charles Dickens"
-          },
-          {
-            "domanda": "Quale è il più grande fiume d'Europa?",
-            "risposta": "Volga"
-          },
-          {
-            "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
-            "risposta": "Jane Austen"
-          },
-          {
-            "domanda": "Quale è il più grande animale terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
-            "risposta": "Salvador Dalí"
-          },
-          {
-            "domanda": "Quale è il più grande ghiacciaio del mondo?",
-            "risposta": "Ghiacciaio Lambert"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
-            "risposta": "Oscar Wilde"
-          },
-          {
-            "domanda": "Quale è il più grande parco nazionale del mondo?",
-            "risposta": "Parco nazionale Nord-Est della Groenlandia"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il Gattopardo'?",
-            "risposta": "Giuseppe Tomasi di Lampedusa"
-          },
-          {
-            "domanda": "Quale è il più grande altopiano del mondo?",
-            "risposta": "Altopiano tibetano"
-          },
-          {
-            "domanda": "Chi ha scritto 'Madame Bovary'?",
-            "risposta": "Gustave Flaubert"
-          },
-          {
-            "domanda": "Quale è il più grande canale del mondo?",
-            "risposta": "Canale di Panama"
-          },
-          {
-            "domanda": "Chi ha scritto 'Ulisse'?",
-            "risposta": "James Joyce"
-          },
-          {
-            "domanda": "Quale è il più grande arco di trionfo del mondo?",
-            "risposta": "Arco di trionfo della Corea"
-          },
-          {
-            "domanda": "Chi ha scritto 'Anna dei miracoli'?",
-            "risposta": "Carlo Cassola"
-          },
-          {
-            "domanda": "Quale è il più grande vulcano attivo del mondo?",
-            "risposta": "Mauna Loa"
-          },
+          "domanda": "Quanto fa 7 * 2?",
+          "risposta": "14"
+        },
         {
-            "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
-            "risposta": "Jane Austen"
-          },
-          {
-            "domanda": "Quale è l'elemento chimico con simbolo 'Na'?",
-            "risposta": "Sodio"
-          },
-          {
-            "domanda": "Chi ha dipinto 'La notte stellata'?",
-            "risposta": "Vincent van Gogh"
-          },
-          {
-            "domanda": "Quale è il più grande oceano del mondo?",
-            "risposta": "Oceano Pacifico"
-          },
-          {
-            "domanda": "Chi è stato il primo uomo a camminare sulla Luna?",
-            "risposta": "Neil Armstrong"
-          },
-          {
-            "domanda": "In che anno è stata fondata la città di Roma?",
-            "risposta": "753 a.C."
-          },
-          {
-            "domanda": "Quale è il deserto più grande del mondo?",
-            "risposta": "Deserto del Sahara"
-          },
-          {
-            "domanda": "Chi ha scritto 'La metamorfosi'?",
-            "risposta": "Franz Kafka"
-          },
-          {
-            "domanda": "Quale è il più grande animale del mondo?",
-            "risposta": "Balena blu"
-          },
-          {
-            "domanda": "Chi ha scritto 'Anna Karenina'?",
-            "risposta": "Lev Tolstoj"
-          },
-          {
-            "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
-            "risposta": "Ferro"
-          },
-          {
-            "domanda": "Qual è il monte più alto del mondo?",
-            "risposta": "Monte Everest"
-          },
-          {
-            "domanda": "Chi ha scritto 'Don Chisciotte'?",
-            "risposta": "Miguel de Cervantes"
-          },
-          {
-            "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
-            "risposta": "1492"
-          },
-          {
-            "domanda": "Chi ha scritto 'Cime tempestose'?",
-            "risposta": "Emily Brontë"
-          },
-          {
-            "domanda": "Quale è il più grande lago del mondo per superficie?",
-            "risposta": "Lago Superiore"
-          },
-          {
-            "domanda": "Chi ha dipinto 'Il bacio'?",
-            "risposta": "Gustav Klimt"
-          },
-          {
-            "domanda": "Quale è il più grande mammifero terrestre?",
-            "risposta": "Elefante africano"
-          },
-          {
-            "domanda": "Chi ha scritto 'Il giovane Holden'?",
-            "risposta": "J.D. Salinger"
-          },
-          {
-            "domanda": "Quale è il più grande stato del mondo?",
-            "risposta": "Russia"
-          },
-      {
-        "domanda": "Chi ha dipinto la Mona Lisa?",
-        "risposta": "Leonardo da Vinci"
-      },
-      {
-        "domanda": "Quale è l'elemento chimico più abbondante nell'universo?",
-        "risposta": "Idrogeno"
-      },
-      {
-        "domanda": "Qual è la capitale del Canada?",
-        "risposta": "Ottawa"
-      },
-      {
-        "domanda": "Chi ha scritto 'Romeo e Giulietta'?",
-        "risposta": "William Shakespeare"
-      },
-      {
-        "domanda": "In che anno è stata fondata Apple Inc.?",
-        "risposta": "1976"
-      },
-      {
-        "domanda": "Quale è il fiume più lungo del mondo?",
-        "risposta": "Nilo"
-      },
-      {
-        "domanda": "Chi ha scritto '1984'?",
-        "risposta": "George Orwell"
-      },
-      {
-        "domanda": "Qual è l'organo più grande del corpo umano?",
-        "risposta": "Pelle"
-      },
-      {
-        "domanda": "Qual è l'animale terrestre più veloce?",
-        "risposta": "Ghepardo"
-      },
-      {
-        "domanda": "Quale è la più grande catena montuosa del mondo?",
-        "risposta": "Himalaya"
-      },
-      {
-        "domanda": "Chi ha inventato la lampadina elettrica?",
-        "risposta": "Thomas Edison"
-      },
-      {
-        "domanda": "Quante ossa ci sono nel corpo umano?",
-        "risposta": "206"
-      },
-      {
-        "domanda": "Quale è l'anno in cui l'uomo ha messo piede sulla Luna?",
-        "risposta": "1969"
-      },
-      {
-        "domanda": "Chi ha scritto 'Guerra e pace'?",
-        "risposta": "Lev Tolstoj"
-      },
-      {
-        "domanda": "Quale è il pianeta più vicino al Sole?",
-        "risposta": "Mercurio"
-      },
-      {
-        "domanda": "In che anno è caduto il muro di Berlino?",
-        "risposta": "1989"
-      },
-      {
-        "domanda": "Chi ha scritto 'Il signore degli anelli'?",
-        "risposta": "J.R.R. Tolkien"
-      },
-      {
-        "domanda": "Qual è la valuta del Giappone?",
-        "risposta": "Yen"
-      },
-      {
-        "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
-        "risposta": "Ernest Hemingway"
-      },
-      {
-        "domanda": "Quanti continenti ci sono sulla Terra?",
-        "risposta": "7"
-      }
-    ]
-  }
-  
+          "domanda": "Quanto fa 18 / 3?",
+          "risposta": "6"
+        },
+        {
+          "domanda": "Quanto fa 12 + 9?",
+          "risposta": "21"
+        },
+        {
+          "domanda": "Quanto fa 15 - 6?",
+          "risposta": "9"
+        },
+        {
+          "domanda": "Quanto fa 4 * 5?",
+          "risposta": "20"
+        },
+        {
+          "domanda": "Quanto fa 24 / 4?",
+          "risposta": "6"
+        },
+        {
+          "domanda": "Quanto fa 8 + 7?",
+          "risposta": "15"
+        },
+        {
+          "domanda": "Quanto fa 25 - 13?",
+          "risposta": "12"
+        },
+        {
+          "domanda": "Quanto fa 9 * 3?",
+          "risposta": "27"
+        },
+        {
+          "domanda": "Quanto fa 36 / 6?",
+          "risposta": "6"
+        },
+        {
+          "domanda": "Quanto fa 11 + 4?",
+          "risposta": "15"
+        },
+        {
+          "domanda": "Quanto fa 20 - 8?",
+          "risposta": "12"
+        },
+        {
+          "domanda": "Quanto fa 6 * 7?",
+          "risposta": "42"
+        },
+        {
+          "domanda": "Quanto fa 48 / 6?",
+          "risposta": "8"
+        },
+        {
+          "domanda": "Quanto fa 14 + 6?",
+          "risposta": "20"
+        },
+        {
+          "domanda": "Quanto fa 30 - 9?",
+          "risposta": "21"
+        },
+        {
+          "domanda": "Quanto fa 10 * 8?",
+          "risposta": "80"
+        },
+        {
+          "domanda": "Quanto fa 64 / 8?",
+          "risposta": "8"
+        },    
+    {
+      "domanda": "Qual è il titolo di uno dei libri più famosi di Slavoj Žižek?",
+      "risposta": "La visione di parallasse"
+    },
+    {
+      "domanda": "Chi è stato uno dei principali allievi di Sigmund Freud?",
+      "risposta": "Carl Gustav Jung"
+    },
+    {
+      "domanda": "Qual è il campo di studio principale di Hannah Fry?",
+      "risposta": "Scienza dei dati"
+    },
+    {
+      "domanda": "Chi è l'autore della teoria degli archetipi?",
+      "risposta": "Carl Gustav Jung"
+    },
+    {
+      "domanda": "Chi è l'autore del libro 'Realismo Capitalista'?",
+      "risposta": "Mark Fisher"
+    },
+    {
+      "domanda": "In quale città italiana gioca l'Internazionale FC le sue partite casalinghe?",
+      "risposta": "Milano"
+    },
+    {
+      "domanda": "Qual è il soprannome dell'AC Milan?",
+      "risposta": "Rossoneri"
+    },
+    {
+      "domanda": "Quanti giocatori titolari sono presenti in una squadra di calcio?",
+      "risposta": "11"
+    },
+    {
+      "domanda": "Qual è la durata di un tempo di gioco in una partita di calcio?",
+      "risposta": "45 minuti"
+    },
+    {
+      "domanda": "Qual è l'organo che si occupa dell'arbitraggio delle partite di calcio in campo internazionale?",
+      "risposta": "FIFA"
+    },
+    {
+      "domanda": "Qual è uno dei principali concetti affrontati da Slavoj Žižek nella sua filosofia?",
+      "risposta": "Lacanismo"
+    },
+    {
+      "domanda": "Qual è la città natale di Sigmund Freud?",
+      "risposta": "Freiberg, oggi Příbor, Repubblica Ceca"
+    },
+    {
+      "domanda": "In che campo Hannah Fry ha ottenuto il suo dottorato di ricerca?",
+      "risposta": "Matematica"
+    },
+    {
+      "domanda": "Chi è stato il mentore di Sigmund Freud?",
+      "risposta": "Josef Breuer"
+    },
+    {
+      "domanda": "Qual è l'altro nome con cui è conosciuto Mark Fisher?",
+      "risposta": "K-Punk"
+    },
+    {
+      "domanda": "In quale stadio gioca solitamente l'AC Milan le sue partite casalinghe?",
+      "risposta": "San Siro"
+    },
+    {
+      "domanda": "Quanti giocatori sostituti possono essere utilizzati in una partita di calcio?",
+      "risposta": "3"
+    },
+    {
+      "domanda": "Qual è il ruolo di un allenatore di calcio durante una partita?",
+      "risposta": "Indirizzare la squadra e prendere decisioni tattiche"
+    },
+    {
+      "domanda": "In quale anno è stato fondato l'Internazionale FC?",
+      "risposta": "1908"
+    },
+    {
+      "domanda": "Chi è stato uno dei primi critici di Freud?",
+      "risposta": "Wilhelm Fliess"
+    },
+    {
+      "domanda": "Chi ha scritto 'Le avventure di Tom Sawyer'?",
+      "risposta": "Mark Twain"
+    },
+    {
+      "domanda": "Quale è il più grande pianeta del sistema solare?",
+      "risposta": "Giove"
+    },
+    {
+      "domanda": "Chi ha dipinto 'Il bacio'?",
+      "risposta": "Gustav Klimt"
+    },
+    {
+      "domanda": "Quale è il più grande oceano del mondo?",
+      "risposta": "Oceano Pacifico"
+    },
+    {
+      "domanda": "Chi è stato il primo uomo a camminare sulla Luna?",
+      "risposta": "Neil Armstrong"
+    },
+    {
+      "domanda": "In che anno è stata fondata la città di Roma?",
+      "risposta": "753 a.C."
+    },
+    {
+      "domanda": "Quale è il deserto più grande del mondo?",
+      "risposta": "Deserto del Sahara"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi ha scritto 'Cime tempestose'?",
+      "risposta": "Emily Brontë"
+    },
+    {
+      "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
+      "risposta": "Ferro"
+    },
+    {
+      "domanda": "Qual è il monte più alto del mondo?",
+      "risposta": "Monte Everest"
+    },
+    {
+      "domanda": "Chi ha scritto 'Don Chisciotte'?",
+      "risposta": "Miguel de Cervantes"
+    },
+    {
+      "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
+      "risposta": "1492"
+    },
+    {
+      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "risposta": "Charles Dickens"
+    },
+    {
+      "domanda": "Quale è il più grande lago del mondo per superficie?",
+      "risposta": "Lago Superiore"
+    },
+    {
+      "domanda": "Chi ha dipinto 'La notte stellata'?",
+      "risposta": "Vincent van Gogh"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero marino?",
+      "risposta": "Balenottera azzurra"
+    },
+    {
+      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "risposta": "Charles Dickens"
+    },
+    {
+      "domanda": "Quale è il più grande fiume d'Europa?",
+      "risposta": "Volga"
+    },
+    {
+      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "risposta": "Jane Austen"
+    },
+    {
+      "domanda": "Quale è il più grande animale terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
+      "risposta": "Salvador Dalí"
+    },
+    {
+      "domanda": "Quale è il più grande ghiacciaio del mondo?",
+      "risposta": "Ghiacciaio Lambert"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
+      "risposta": "Oscar Wilde"
+    },
+    {
+      "domanda": "Quale è il più grande parco nazionale del mondo?",
+      "risposta": "Parco nazionale Nord-Est della Groenlandia"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il Gattopardo'?",
+      "risposta": "Giuseppe Tomasi di Lampedusa"
+    },
+    {
+      "domanda": "Chi ha scritto 'Madame Bovary'?",
+      "risposta": "Gustave Flaubert"
+    },
+    {
+      "domanda": "Quale è il più grande canale del mondo?",
+      "risposta": "Canale di Panama"
+    },
+    {
+      "domanda": "Chi ha scritto 'Ulisse'?",
+      "risposta": "James Joyce"
+    },
+    {
+      "domanda": "Quale è il più grande arco di trionfo del mondo?",
+      "risposta": "Arco di trionfo della Corea"
+    },
+    {
+      "domanda": "Chi ha scritto 'Anna dei miracoli'?",
+      "risposta": "Carlo Cassola"
+    },
+    {
+      "domanda": "Quale è il più grande vulcano attivo del mondo?",
+      "risposta": "Mauna Loa"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il dottor Zivago'?",
+      "risposta": "Boris Pasternak"
+    },
+    {
+      "domanda": "Quale è la più grande isola del mondo?",
+      "risposta": "Groenlandia"
+    },
+    {
+      "domanda": "Chi ha composto 'Le quattro stagioni'?",
+      "risposta": "Antonio Vivaldi"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero marino?",
+      "risposta": "Balenottera azzurra"
+    },
+    {
+      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "risposta": "Charles Dickens"
+    },
+    {
+      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "risposta": "Jane Austen"
+    },
+    {
+      "domanda": "Quale è il più grande animale terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi è considerato il padre della psicoanalisi?",
+      "risposta": "Sigmund Freud"
+    },
+    {
+      "domanda": "Qual è il campo di specializzazione di Hannah Fry?",
+      "risposta": "Matematica"
+    },
+    {
+      "domanda": "Chi ha fondato la psicologia analitica?",
+      "risposta": "Carl Gustav Jung"
+    },
+    {
+      "domanda": "In che città ha sede FC Internazionale?",
+      "risposta": "Milano"
+    },
+    {
+      "domanda": "Quanti giocatori compongono una squadra di calcio?",
+      "risposta": "11 giocatori"
+    },
+    {
+      "domanda": "Quale è la durata di una partita di calcio regolamentare?",
+      "risposta": "90 minuti"
+    },
+    {
+      "domanda": "Qual è l'organo di governo del calcio mondiale?",
+      "risposta": "FIFA"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
+      "risposta": "Ernest Hemingway"
+    },
+    {
+      "domanda": "Quale è il più grande lago d'Europa?",
+      "risposta": "Lago di Ladoga"
+    },
+    {
+      "domanda": "Chi ha dipinto 'La Gioconda'?",
+      "risposta": "Leonardo da Vinci"
+    },
+    {
+      "domanda": "Quale è il più grande rettile del mondo?",
+      "risposta": "Coccodrillo marino"
+    },
+    {
+      "domanda": "Quale è il più grande deserto freddo del mondo?",
+      "risposta": "Antartide"
+    },
+    {
+      "domanda": "Chi ha composto 'La Traviata'?",
+      "risposta": "Giuseppe Verdi"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero carnivoro terrestre?",
+      "risposta": "Orso polare"
+    },
+    {
+      "domanda": "Chi ha scritto 'Donne'?",
+      "risposta": "Charles Bukowski"
+    },
+    {
+      "domanda": "Quale è il più grande giacimento di petrolio del mondo?",
+      "risposta": "Giacimento di Ghawar"
+    },
+    {
+      "domanda": "Chi ha scritto 'La colpa è delle stelle'?",
+      "risposta": "John Green"
+    },
+    {
+      "domanda": "Quale è il più grande animale terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi ha composto 'Il lago dei cigni'?",
+      "risposta": "Pëtr Il'ič Čajkovskij"
+    },
+    {
+      "domanda": "Quale è il più grande lago d'America Latina?",
+      "risposta": "Lago Titicaca"
+    },
+    {
+      "domanda": "Chi ha scritto 'La fattoria degli animali'?",
+      "risposta": "George Orwell"
+    },
+    {
+      "domanda": "Quale è il più grande parco urbano del mondo?",
+      "risposta": "Parco nazionale della Montagna della Tabella"
+    },
+    {
+      "domanda": "Chi ha scritto 'La spada della verità'?",
+      "risposta": "Terry Goodkind"
+    },
+    {
+      "domanda": "Quale è il più grande fiume d'America Latina?",
+      "risposta": "Rio delle Amazzoni"
+    },
+    {
+      "domanda": "Chi ha scritto 'Memorie di una geisha'?",
+      "risposta": "Arthur Golden"
+    },
+    {
+      "domanda": "Quale è il più grande animale marino?",
+      "risposta": "Balena azzurra"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il dottor Zivago'?",
+      "risposta": "Boris Pasternak"
+    },
+    {
+      "domanda": "Quale è la più grande isola del mondo?",
+      "risposta": "Groenlandia"
+    },
+    {
+      "domanda": "Chi ha composto 'Le quattro stagioni'?",
+      "risposta": "Antonio Vivaldi"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero marino?",
+      "risposta": "Balenottera azzurra"
+    },
+    {
+      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "risposta": "Charles Dickens"
+    },
+    {
+      "domanda": "Quale è il più grande fiume d'Europa?",
+      "risposta": "Volga"
+    },
+    {
+      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "risposta": "Jane Austen"
+    },
+    {
+      "domanda": "Quale è il più grande animale terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
+      "risposta": "Salvador Dalí"
+    },
+    {
+      "domanda": "Quale è il più grande ghiacciaio del mondo?",
+      "risposta": "Ghiacciaio Lambert"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
+      "risposta": "Oscar Wilde"
+    },
+    {
+      "domanda": "Quale è il più grande parco nazionale del mondo?",
+      "risposta": "Parco nazionale Nord-Est della Groenlandia"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il Gattopardo'?",
+      "risposta": "Giuseppe Tomasi di Lampedusa"
+    },
+    {
+      "domanda": "Quale è il più grande altopiano del mondo?",
+      "risposta": "Altopiano tibetano"
+    },
+    {
+      "domanda": "Chi ha scritto 'Madame Bovary'?",
+      "risposta": "Gustave Flaubert"
+    },
+    {
+      "domanda": "Quale è il più grande canale del mondo?",
+      "risposta": "Canale di Panama"
+    },
+    {
+      "domanda": "Chi ha scritto 'Ulisse'?",
+      "risposta": "James Joyce"
+    },
+    {
+      "domanda": "Quale è il più grande arco di trionfo del mondo?",
+      "risposta": "Arco di trionfo della Corea"
+    },
+    {
+      "domanda": "Chi ha scritto 'Anna dei miracoli'?",
+      "risposta": "Carlo Cassola"
+    },
+    {
+      "domanda": "Quale è il più grande vulcano attivo del mondo?",
+      "risposta": "Mauna Loa"
+    },
+    {
+      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "risposta": "Jane Austen"
+    },
+    {
+      "domanda": "Quale è l'elemento chimico con simbolo 'Na'?",
+      "risposta": "Sodio"
+    },
+    {
+      "domanda": "Chi ha dipinto 'La notte stellata'?",
+      "risposta": "Vincent van Gogh"
+    },
+    {
+      "domanda": "Quale è il più grande oceano del mondo?",
+      "risposta": "Oceano Pacifico"
+    },
+    {
+      "domanda": "Chi è stato il primo uomo a camminare sulla Luna?",
+      "risposta": "Neil Armstrong"
+    },
+    {
+      "domanda": "In che anno è stata fondata la città di Roma?",
+      "risposta": "753 a.C."
+    },
+    {
+      "domanda": "Quale è il deserto più grande del mondo?",
+      "risposta": "Deserto del Sahara"
+    },
+    {
+      "domanda": "Chi ha scritto 'La metamorfosi'?",
+      "risposta": "Franz Kafka"
+    },
+    {
+      "domanda": "Quale è il più grande animale del mondo?",
+      "risposta": "Balena blu"
+    },
+    {
+      "domanda": "Chi ha scritto 'Anna Karenina'?",
+      "risposta": "Lev Tolstoj"
+    },
+    {
+      "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
+      "risposta": "Ferro"
+    },
+    {
+      "domanda": "Qual è il monte più alto del mondo?",
+      "risposta": "Monte Everest"
+    },
+    {
+      "domanda": "Chi ha scritto 'Don Chisciotte'?",
+      "risposta": "Miguel de Cervantes"
+    },
+    {
+      "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
+      "risposta": "1492"
+    },
+    {
+      "domanda": "Chi ha scritto 'Cime tempestose'?",
+      "risposta": "Emily Brontë"
+    },
+    {
+      "domanda": "Quale è il più grande lago del mondo per superficie?",
+      "risposta": "Lago Superiore"
+    },
+    {
+      "domanda": "Chi ha dipinto 'Il bacio'?",
+      "risposta": "Gustav Klimt"
+    },
+    {
+      "domanda": "Quale è il più grande mammifero terrestre?",
+      "risposta": "Elefante africano"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il giovane Holden'?",
+      "risposta": "J.D. Salinger"
+    },
+    {
+      "domanda": "Quale è il più grande stato del mondo?",
+      "risposta": "Russia"
+    },
+    {
+      "domanda": "Chi ha dipinto la Mona Lisa?",
+      "risposta": "Leonardo da Vinci"
+    },
+    {
+      "domanda": "Quale è l'elemento chimico più abbondante nell'universo?",
+      "risposta": "Idrogeno"
+    },
+    {
+      "domanda": "Qual è la capitale del Canada?",
+      "risposta": "Ottawa"
+    },
+    {
+      "domanda": "Chi ha scritto 'Romeo e Giulietta'?",
+      "risposta": "William Shakespeare"
+    },
+    {
+      "domanda": "In che anno è stata fondata Apple Inc.?",
+      "risposta": "1976"
+    },
+    {
+      "domanda": "Quale è il fiume più lungo del mondo?",
+      "risposta": "Nilo"
+    },
+    {
+      "domanda": "Qual è l'organo più grande del corpo umano?",
+      "risposta": "Pelle"
+    },
+    {
+      "domanda": "Qual è l'animale terrestre più veloce?",
+      "risposta": "Ghepardo"
+    },
+    {
+      "domanda": "Quale è la più grande catena montuosa del mondo?",
+      "risposta": "Himalaya"
+    },
+    {
+      "domanda": "Chi ha inventato la lampadina elettrica?",
+      "risposta": "Thomas Edison"
+    },
+    {
+      "domanda": "Quante ossa ci sono nel corpo umano?",
+      "risposta": "206"
+    },
+    {
+      "domanda": "Quale è l'anno in cui l'uomo ha messo piede sulla Luna?",
+      "risposta": "1969"
+    },
+    {
+      "domanda": "Chi ha scritto 'Guerra e pace'?",
+      "risposta": "Lev Tolstoj"
+    },
+    {
+      "domanda": "Quale è il pianeta più vicino al Sole?",
+      "risposta": "Mercurio"
+    },
+    {
+      "domanda": "In che anno è caduto il muro di Berlino?",
+      "risposta": "1989"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il signore degli anelli'?",
+      "risposta": "J.R.R. Tolkien"
+    },
+    {
+      "domanda": "Qual è la valuta del Giappone?",
+      "risposta": "Yen"
+    },
+    {
+      "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
+      "risposta": "Ernest Hemingway"
+    },
+    {
+      "domanda": "Quanti continenti ci sono sulla Terra?",
+      "risposta": "7"
+    },
+    {
+      "domanda": "Qual è il nome del monumento romano antico che è considerato uno dei più grandi anfiteatri mai costruiti?",
+      "risposta": "Colosseo"
+    },
+    {
+      "domanda": "In che luogo di Roma trovi la Fontana di Trevi?",
+      "risposta": "Centro storico"
+    },
+    {
+      "domanda": "Qual è il nome del monumento dedicato al primo re d'Italia e situato su una delle sette colline di Roma?",
+      "risposta": "Altare della Patria"
+    },
+    {
+      "domanda": "Dove si trova la Basilica di San Pietro?",
+      "risposta": "Città del Vaticano"
+    },
+    {
+      "domanda": "Qual è il nome del monumento antico che rappresenta un antico tempio romano e oggi è uno dei monumenti meglio conservati di Roma?",
+      "risposta": "Panteon"
+    },
+    {
+      "domanda": "Qual è il nome del grande museo storico e artistico di Roma che ospita una delle collezioni più importanti al mondo?",
+      "risposta": "Musei Vaticani"
+    },
+    {
+      "domanda": "In che zona di Roma si trova il Colle Palatino?",
+      "risposta": "Foro Romano"
+    },
+    {
+      "domanda": "Qual è il nome del famoso monumento romano che è stato eretto per celebrare la vittoria di un imperatore su un'importante battaglia?",
+      "risposta": "Arco di Costantino"
+    },
+    {
+      "domanda": "Dove si trova la Basilica di Santa Maria Maggiore?",
+      "risposta": "Esquilino"
+    },
+    {
+      "domanda": "Qual è il nome del monumento romano antico che era un grande spazio aperto circondato da colonne e utilizzato per eventi pubblici?",
+      "risposta": "Foro Romano"
+    },
+    {
+      "domanda": "Qual è il nome del celebre duomo di Milano, una delle più grandi chiese cattoliche del mondo?",
+      "risposta": "Duomo di Milano"
+    },
+    {
+      "domanda": "Qual è il nome del celebre teatro milanese che è anche una delle più importanti opere liriche del mondo?",
+      "risposta": "Teatro alla Scala"
+    },
+    {
+      "domanda": "Dove si trova il Castello Sforzesco?",
+      "risposta": "Parco Sempione"
+    },
+    {
+      "domanda": "Qual è il nome del famoso dipinto di Leonardo da Vinci ospitato all'interno del refettorio del convento di Santa Maria delle Grazie?",
+      "risposta": "L'Ultima Cena"
+    },
+    {
+      "domanda": "In che zona di Milano si trova il Quadrilatero della Moda, famoso per le sue boutique di alta moda?",
+      "risposta": "Centro storico"
+    },
+    {
+      "domanda": "Qual è il nome del celebre arco di trionfo situato in Piazza Sempione?",
+      "risposta": "Arco della Pace"
+    },
+    {
+      "domanda": "Dove si trova la Pinacoteca di Brera, una delle gallerie d'arte più importanti d'Italia?",
+      "risposta": "Quadrilatero della moda"
+    },
+    {
+      "domanda": "Qual è il nome del celebre cimitero monumentale di Milano, famoso per la sua arte funeraria?",
+      "risposta": "Cimitero Monumentale"
+    },
+    {
+      "domanda": "Dove si trova la Galleria Vittorio Emanuele II, una delle più antiche gallerie commerciali al mondo?",
+      "risposta": "Piazza del Duomo"
+    }
+  ]
+}

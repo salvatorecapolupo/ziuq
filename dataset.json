@@ -5,6 +5,14 @@
           "risposta": "8"
         },
         {
+          "domanda": "Chi ha creato ZIUQ?",
+          "risposta": "Salvatore Capolupo"
+        },
+        {
+          "domanda": "Chi non salta?",
+          "risposta": "Rossonero è!"
+        },
+        {
           "domanda": "Quanto fa 10 - 4?",
           "risposta": "6"
         },
@@ -93,19 +101,19 @@
       "risposta": "Scienza dei dati"
     },
     {
-      "domanda": "Chi è l'autore della teoria degli archetipi?",
+      "domanda": "Chi è lautore della teoria degli archetipi?",
       "risposta": "Carl Gustav Jung"
     },
     {
-      "domanda": "Chi è l'autore del libro 'Realismo Capitalista'?",
+      "domanda": "Chi è lautore del libro Realismo Capitalista?",
       "risposta": "Mark Fisher"
     },
     {
-      "domanda": "In quale città italiana gioca l'Internazionale FC le sue partite casalinghe?",
+      "domanda": "In quale città italiana gioca lInternazionale FC le sue partite casalinghe?",
       "risposta": "Milano"
     },
     {
-      "domanda": "Qual è il soprannome dell'AC Milan?",
+      "domanda": "Qual è il soprannome dellAC Milan?",
       "risposta": "Rossoneri"
     },
     {
@@ -117,7 +125,7 @@
       "risposta": "45 minuti"
     },
     {
-      "domanda": "Qual è l'organo che si occupa dell'arbitraggio delle partite di calcio in campo internazionale?",
+      "domanda": "Qual è lorgano che si occupa dellarbitraggio delle partite di calcio in campo internazionale?",
       "risposta": "FIFA"
     },
     {
@@ -137,11 +145,11 @@
       "risposta": "Josef Breuer"
     },
     {
-      "domanda": "Qual è l'altro nome con cui è conosciuto Mark Fisher?",
+      "domanda": "Qual è laltro nome con cui è conosciuto Mark Fisher?",
       "risposta": "K-Punk"
     },
     {
-      "domanda": "In quale stadio gioca solitamente l'AC Milan le sue partite casalinghe?",
+      "domanda": "In quale stadio gioca solitamente lAC Milan le sue partite casalinghe?",
       "risposta": "San Siro"
     },
     {
@@ -153,7 +161,7 @@
       "risposta": "Indirizzare la squadra e prendere decisioni tattiche"
     },
     {
-      "domanda": "In quale anno è stato fondato l'Internazionale FC?",
+      "domanda": "In quale anno è stato fondato lInternazionale FC?",
       "risposta": "1908"
     },
     {
@@ -161,7 +169,7 @@
       "risposta": "Wilhelm Fliess"
     },
     {
-      "domanda": "Chi ha scritto 'Le avventure di Tom Sawyer'?",
+      "domanda": "Chi ha scritto Le avventure di Tom Sawyer?",
       "risposta": "Mark Twain"
     },
     {
@@ -169,7 +177,7 @@
       "risposta": "Giove"
     },
     {
-      "domanda": "Chi ha dipinto 'Il bacio'?",
+      "domanda": "Chi ha dipinto Il bacio?",
       "risposta": "Gustav Klimt"
     },
     {
@@ -193,11 +201,11 @@
       "risposta": "Elefante africano"
     },
     {
-      "domanda": "Chi ha scritto 'Cime tempestose'?",
+      "domanda": "Chi ha scritto Cime tempestose?",
       "risposta": "Emily Brontë"
     },
     {
-      "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
+      "domanda": "Quale è lelemento chimico con simbolo Fe?",
       "risposta": "Ferro"
     },
     {
@@ -205,15 +213,15 @@
       "risposta": "Monte Everest"
     },
     {
-      "domanda": "Chi ha scritto 'Don Chisciotte'?",
+      "domanda": "Chi ha scritto Don Chisciotte?",
       "risposta": "Miguel de Cervantes"
     },
     {
-      "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
+      "domanda": "Quale è lanno in cui è stata scoperta lAmerica?",
       "risposta": "1492"
     },
     {
-      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "domanda": "Chi ha scritto Canto di Natale?",
       "risposta": "Charles Dickens"
     },
     {
@@ -221,7 +229,7 @@
       "risposta": "Lago Superiore"
     },
     {
-      "domanda": "Chi ha dipinto 'La notte stellata'?",
+      "domanda": "Chi ha dipinto La notte stellata?",
       "risposta": "Vincent van Gogh"
     },
     {
@@ -229,15 +237,15 @@
       "risposta": "Balenottera azzurra"
     },
     {
-      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "domanda": "Chi ha scritto Canto di Natale?",
       "risposta": "Charles Dickens"
     },
     {
-      "domanda": "Quale è il più grande fiume d'Europa?",
+      "domanda": "Quale è il più grande fiume dEuropa?",
       "risposta": "Volga"
     },
     {
-      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "domanda": "Chi ha scritto Orgoglio e pregiudizio?",
       "risposta": "Jane Austen"
     },
     {
@@ -245,7 +253,7 @@
       "risposta": "Elefante africano"
     },
     {
-      "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
+      "domanda": "Chi ha dipinto La persistenza della memoria?",
       "risposta": "Salvador Dalí"
     },
     {
@@ -253,7 +261,7 @@
       "risposta": "Ghiacciaio Lambert"
     },
     {
-      "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
+      "domanda": "Chi ha scritto Il ritratto di Dorian Gray?",
       "risposta": "Oscar Wilde"
     },
     {
@@ -261,11 +269,11 @@
       "risposta": "Parco nazionale Nord-Est della Groenlandia"
     },
     {
-      "domanda": "Chi ha scritto 'Il Gattopardo'?",
+      "domanda": "Chi ha scritto Il Gattopardo?",
       "risposta": "Giuseppe Tomasi di Lampedusa"
     },
     {
-      "domanda": "Chi ha scritto 'Madame Bovary'?",
+      "domanda": "Chi ha scritto Madame Bovary?",
       "risposta": "Gustave Flaubert"
     },
     {
@@ -273,15 +281,15 @@
       "risposta": "Canale di Panama"
     },
     {
-      "domanda": "Chi ha scritto 'Ulisse'?",
+      "domanda": "Chi ha scritto Ulisse?",
       "risposta": "James Joyce"
     },
     {
-      "domanda": "Quale è il più grande arco di trionfo del mondo?",
-      "risposta": "Arco di trionfo della Corea"
+      "domanda": "Quale è il più grande arco di trionfo al mondo?",
+      "risposta": "Quello della Corea"
     },
     {
-      "domanda": "Chi ha scritto 'Anna dei miracoli'?",
+      "domanda": "Chi ha scritto Anna dei miracoli?",
       "risposta": "Carlo Cassola"
     },
     {
@@ -289,7 +297,7 @@
       "risposta": "Mauna Loa"
     },
     {
-      "domanda": "Chi ha scritto 'Il dottor Zivago'?",
+      "domanda": "Chi ha scritto Il dottor Zivago?",
       "risposta": "Boris Pasternak"
     },
     {
@@ -297,7 +305,7 @@
       "risposta": "Groenlandia"
     },
     {
-      "domanda": "Chi ha composto 'Le quattro stagioni'?",
+      "domanda": "Chi ha composto Le quattro stagioni?",
       "risposta": "Antonio Vivaldi"
     },
     {
@@ -305,11 +313,11 @@
       "risposta": "Balenottera azzurra"
     },
     {
-      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "domanda": "Chi ha scritto Canto di Natale?",
       "risposta": "Charles Dickens"
     },
     {
-      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "domanda": "Chi ha scritto Orgoglio e pregiudizio?",
       "risposta": "Jane Austen"
     },
     {
@@ -341,19 +349,19 @@
       "risposta": "90 minuti"
     },
     {
-      "domanda": "Qual è l'organo di governo del calcio mondiale?",
+      "domanda": "Qual è lorgano di governo del calcio mondiale?",
       "risposta": "FIFA"
     },
     {
-      "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
+      "domanda": "Chi ha scritto Il vecchio e il mare?",
       "risposta": "Ernest Hemingway"
     },
     {
-      "domanda": "Quale è il più grande lago d'Europa?",
+      "domanda": "Quale è il più grande lago dEuropa?",
       "risposta": "Lago di Ladoga"
     },
     {
-      "domanda": "Chi ha dipinto 'La Gioconda'?",
+      "domanda": "Chi ha dipinto La Gioconda?",
       "risposta": "Leonardo da Vinci"
     },
     {
@@ -365,7 +373,7 @@
       "risposta": "Antartide"
     },
     {
-      "domanda": "Chi ha composto 'La Traviata'?",
+      "domanda": "Chi ha composto La Traviata?",
       "risposta": "Giuseppe Verdi"
     },
     {
@@ -373,7 +381,7 @@
       "risposta": "Orso polare"
     },
     {
-      "domanda": "Chi ha scritto 'Donne'?",
+      "domanda": "Chi ha scritto Donne?",
       "risposta": "Charles Bukowski"
     },
     {
@@ -381,7 +389,7 @@
       "risposta": "Giacimento di Ghawar"
     },
     {
-      "domanda": "Chi ha scritto 'La colpa è delle stelle'?",
+      "domanda": "Chi ha scritto La colpa è delle stelle?",
       "risposta": "John Green"
     },
     {
@@ -389,15 +397,15 @@
       "risposta": "Elefante africano"
     },
     {
-      "domanda": "Chi ha composto 'Il lago dei cigni'?",
-      "risposta": "Pëtr Il'ič Čajkovskij"
+      "domanda": "Chi ha composto Il lago dei cigni?",
+      "risposta": "Pëtr Ilič Čajkovskij"
     },
     {
-      "domanda": "Quale è il più grande lago d'America Latina?",
+      "domanda": "Quale è il più grande lago dAmerica Latina?",
       "risposta": "Lago Titicaca"
     },
     {
-      "domanda": "Chi ha scritto 'La fattoria degli animali'?",
+      "domanda": "Chi ha scritto La fattoria degli animali?",
       "risposta": "George Orwell"
     },
     {
@@ -405,15 +413,15 @@
       "risposta": "Parco nazionale della Montagna della Tabella"
     },
     {
-      "domanda": "Chi ha scritto 'La spada della verità'?",
+      "domanda": "Chi ha scritto La spada della verità?",
       "risposta": "Terry Goodkind"
     },
     {
-      "domanda": "Quale è il più grande fiume d'America Latina?",
+      "domanda": "Quale è il più grande fiume dAmerica Latina?",
       "risposta": "Rio delle Amazzoni"
     },
     {
-      "domanda": "Chi ha scritto 'Memorie di una geisha'?",
+      "domanda": "Chi ha scritto Memorie di una geisha?",
       "risposta": "Arthur Golden"
     },
     {
@@ -421,7 +429,7 @@
       "risposta": "Balena azzurra"
     },
     {
-      "domanda": "Chi ha scritto 'Il dottor Zivago'?",
+      "domanda": "Chi ha scritto Il dottor Zivago?",
       "risposta": "Boris Pasternak"
     },
     {
@@ -429,7 +437,7 @@
       "risposta": "Groenlandia"
     },
     {
-      "domanda": "Chi ha composto 'Le quattro stagioni'?",
+      "domanda": "Chi ha composto Le quattro stagioni?",
       "risposta": "Antonio Vivaldi"
     },
     {
@@ -437,15 +445,15 @@
       "risposta": "Balenottera azzurra"
     },
     {
-      "domanda": "Chi ha scritto 'Canto di Natale'?",
+      "domanda": "Chi ha scritto Canto di Natale?",
       "risposta": "Charles Dickens"
     },
     {
-      "domanda": "Quale è il più grande fiume d'Europa?",
+      "domanda": "Quale è il più grande fiume dEuropa?",
       "risposta": "Volga"
     },
     {
-      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "domanda": "Chi ha scritto Orgoglio e pregiudizio?",
       "risposta": "Jane Austen"
     },
     {
@@ -453,7 +461,7 @@
       "risposta": "Elefante africano"
     },
     {
-      "domanda": "Chi ha dipinto 'La persistenza della memoria'?",
+      "domanda": "Chi ha dipinto La persistenza della memoria?",
       "risposta": "Salvador Dalí"
     },
     {
@@ -461,7 +469,7 @@
       "risposta": "Ghiacciaio Lambert"
     },
     {
-      "domanda": "Chi ha scritto 'Il ritratto di Dorian Gray'?",
+      "domanda": "Chi ha scritto Il ritratto di Dorian Gray?",
       "risposta": "Oscar Wilde"
     },
     {
@@ -469,7 +477,7 @@
       "risposta": "Parco nazionale Nord-Est della Groenlandia"
     },
     {
-      "domanda": "Chi ha scritto 'Il Gattopardo'?",
+      "domanda": "Chi ha scritto Il Gattopardo?",
       "risposta": "Giuseppe Tomasi di Lampedusa"
     },
     {
@@ -477,7 +485,7 @@
       "risposta": "Altopiano tibetano"
     },
     {
-      "domanda": "Chi ha scritto 'Madame Bovary'?",
+      "domanda": "Chi ha scritto Madame Bovary?",
       "risposta": "Gustave Flaubert"
     },
     {
@@ -485,7 +493,7 @@
       "risposta": "Canale di Panama"
     },
     {
-      "domanda": "Chi ha scritto 'Ulisse'?",
+      "domanda": "Chi ha scritto Ulisse?",
       "risposta": "James Joyce"
     },
     {
@@ -493,7 +501,7 @@
       "risposta": "Arco di trionfo della Corea"
     },
     {
-      "domanda": "Chi ha scritto 'Anna dei miracoli'?",
+      "domanda": "Chi ha scritto Anna dei miracoli?",
       "risposta": "Carlo Cassola"
     },
     {
@@ -501,15 +509,15 @@
       "risposta": "Mauna Loa"
     },
     {
-      "domanda": "Chi ha scritto 'Orgoglio e pregiudizio'?",
+      "domanda": "Chi ha scritto Orgoglio e pregiudizio?",
       "risposta": "Jane Austen"
     },
     {
-      "domanda": "Quale è l'elemento chimico con simbolo 'Na'?",
+      "domanda": "Quale è lelemento chimico con simbolo Na?",
       "risposta": "Sodio"
     },
     {
-      "domanda": "Chi ha dipinto 'La notte stellata'?",
+      "domanda": "Chi ha dipinto La notte stellata?",
       "risposta": "Vincent van Gogh"
     },
     {
@@ -529,7 +537,7 @@
       "risposta": "Deserto del Sahara"
     },
     {
-      "domanda": "Chi ha scritto 'La metamorfosi'?",
+      "domanda": "Chi ha scritto La metamorfosi?",
       "risposta": "Franz Kafka"
     },
     {
@@ -537,11 +545,11 @@
       "risposta": "Balena blu"
     },
     {
-      "domanda": "Chi ha scritto 'Anna Karenina'?",
+      "domanda": "Chi ha scritto Anna Karenina?",
       "risposta": "Lev Tolstoj"
     },
     {
-      "domanda": "Quale è l'elemento chimico con simbolo 'Fe'?",
+      "domanda": "Quale è lelemento chimico con simbolo Fe?",
       "risposta": "Ferro"
     },
     {
@@ -549,15 +557,15 @@
       "risposta": "Monte Everest"
     },
     {
-      "domanda": "Chi ha scritto 'Don Chisciotte'?",
+      "domanda": "Chi ha scritto Don Chisciotte?",
       "risposta": "Miguel de Cervantes"
     },
     {
-      "domanda": "Quale è l'anno in cui è stata scoperta l'America?",
+      "domanda": "Quale è lanno in cui è stata scoperta lAmerica?",
       "risposta": "1492"
     },
     {
-      "domanda": "Chi ha scritto 'Cime tempestose'?",
+      "domanda": "Chi ha scritto Cime tempestose?",
       "risposta": "Emily Brontë"
     },
     {
@@ -565,7 +573,7 @@
       "risposta": "Lago Superiore"
     },
     {
-      "domanda": "Chi ha dipinto 'Il bacio'?",
+      "domanda": "Chi ha dipinto Il bacio?",
       "risposta": "Gustav Klimt"
     },
     {
@@ -573,7 +581,7 @@
       "risposta": "Elefante africano"
     },
     {
-      "domanda": "Chi ha scritto 'Il giovane Holden'?",
+      "domanda": "Chi ha scritto Il giovane Holden?",
       "risposta": "J.D. Salinger"
     },
     {
@@ -585,7 +593,7 @@
       "risposta": "Leonardo da Vinci"
     },
     {
-      "domanda": "Quale è l'elemento chimico più abbondante nell'universo?",
+      "domanda": "Quale è lelemento chimico più abbondante nelluniverso?",
       "risposta": "Idrogeno"
     },
     {
@@ -593,7 +601,7 @@
       "risposta": "Ottawa"
     },
     {
-      "domanda": "Chi ha scritto 'Romeo e Giulietta'?",
+      "domanda": "Chi ha scritto Romeo e Giulietta?",
       "risposta": "William Shakespeare"
     },
     {
@@ -605,11 +613,11 @@
       "risposta": "Nilo"
     },
     {
-      "domanda": "Qual è l'organo più grande del corpo umano?",
+      "domanda": "Qual è lorgano più grande del corpo umano?",
       "risposta": "Pelle"
     },
     {
-      "domanda": "Qual è l'animale terrestre più veloce?",
+      "domanda": "Qual è lanimale terrestre più veloce?",
       "risposta": "Ghepardo"
     },
     {
@@ -625,11 +633,11 @@
       "risposta": "206"
     },
     {
-      "domanda": "Quale è l'anno in cui l'uomo ha messo piede sulla Luna?",
+      "domanda": "Quale è lanno in cui luomo ha messo piede sulla Luna?",
       "risposta": "1969"
     },
     {
-      "domanda": "Chi ha scritto 'Guerra e pace'?",
+      "domanda": "Chi ha scritto Guerra e pace?",
       "risposta": "Lev Tolstoj"
     },
     {
@@ -641,7 +649,7 @@
       "risposta": "1989"
     },
     {
-      "domanda": "Chi ha scritto 'Il signore degli anelli'?",
+      "domanda": "Chi ha scritto Il signore degli anelli?",
       "risposta": "J.R.R. Tolkien"
     },
     {
@@ -649,7 +657,7 @@
       "risposta": "Yen"
     },
     {
-      "domanda": "Chi ha scritto 'Il vecchio e il mare'?",
+      "domanda": "Chi ha scritto Il vecchio e il mare?",
       "risposta": "Ernest Hemingway"
     },
     {
@@ -665,7 +673,7 @@
       "risposta": "Centro storico"
     },
     {
-      "domanda": "Qual è il nome del monumento dedicato al primo re d'Italia e situato su una delle sette colline di Roma?",
+      "domanda": "Qual è il nome del monumento dedicato al primo re dItalia e situato su una delle sette colline di Roma?",
       "risposta": "Altare della Patria"
     },
     {
@@ -685,7 +693,7 @@
       "risposta": "Foro Romano"
     },
     {
-      "domanda": "Qual è il nome del famoso monumento romano che è stato eretto per celebrare la vittoria di un imperatore su un'importante battaglia?",
+      "domanda": "Qual è il nome del famoso monumento romano che è stato eretto per celebrare la vittoria di un imperatore su unimportante battaglia?",
       "risposta": "Arco di Costantino"
     },
     {
@@ -709,8 +717,8 @@
       "risposta": "Parco Sempione"
     },
     {
-      "domanda": "Qual è il nome del famoso dipinto di Leonardo da Vinci ospitato all'interno del refettorio del convento di Santa Maria delle Grazie?",
-      "risposta": "L'Ultima Cena"
+      "domanda": "Qual è il nome del famoso dipinto di Leonardo da Vinci ospitato allinterno del refettorio del convento di Santa Maria delle Grazie?",
+      "risposta": "LUltima Cena"
     },
     {
       "domanda": "In che zona di Milano si trova il Quadrilatero della Moda, famoso per le sue boutique di alta moda?",
@@ -721,7 +729,7 @@
       "risposta": "Arco della Pace"
     },
     {
-      "domanda": "Dove si trova la Pinacoteca di Brera, una delle gallerie d'arte più importanti d'Italia?",
+      "domanda": "Dove si trova la Pinacoteca di Brera, una delle gallerie darte più importanti dItalia?",
       "risposta": "Quadrilatero della moda"
     },
     {

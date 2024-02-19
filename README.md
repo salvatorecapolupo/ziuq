@@ -9,3 +9,6 @@ Ispirato alla lettura di "Hello World" di Hannah Fry, nel capitolo in cui parla 
 Di Salvatore Capolupo
 
 Sviluppato in jQuery. 
+
+Per giocare:
+https://salvatorecapolupo.github.io/ziuq/open-ended.html
